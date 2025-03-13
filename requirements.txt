@@ -1,0 +1,12 @@
+
+dash
+dash-bootstrap-components
+Flask
+Flask-SQLAlchemy
+PyPDF2
+python-docx
+langchain-groq
+langchain
+werkzeug
+python-dotenv
+gunicorn 
