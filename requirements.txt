@@ -1,4 +1,4 @@
-
+pandas
 dash
 dash-bootstrap-components
 Flask
